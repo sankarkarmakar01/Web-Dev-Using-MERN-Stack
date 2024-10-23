@@ -1,0 +1,11 @@
+- What is Web ?
+=> Some document is interconnected to each other.
+- What is Web Development ?
+=> The Process to Create Websites and Web Applications.
+- What is Website ?
+- Static & Dynamic Website ?
+- What is Web Application ?
+- About Frontend / UI
+- About Backend
+- About DataBase
+- About Full Stack Development
