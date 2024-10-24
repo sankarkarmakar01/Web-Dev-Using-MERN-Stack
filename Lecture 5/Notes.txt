@@ -1,0 +1,62 @@
+- What is HTML Tag ?
+- Tag Categorization
+- Semantic Tags
+- Structural Tag
+- Formatting Tag
+- Tag vs Element
+- self closing tag
+- What is Attribute
+- href 
+- stc 
+- alt 
+- article tag vs section tag
+
+
+
+
+---
+
+Semantics:-
+<h1></h1>
+<h2></h2>
+<h3></h3>
+<h4></h4>
+<h5></h5>
+<h6></h6>
+<p></p>
+<a href=""></a>
+<table></table>
+<tr></tr>
+<td></td>
+<img src="" alt="">
+<form action=""></form>
+<input type="text">
+
+Structural:- 
+<html></html>
+<head></head>
+<body></body>
+<header></header>
+<main></main>
+<aside></aside>
+<footer></footer>
+<article></article>
+<section></section>
+<nav></nav>
+
+Formatting:- 
+<b></b>
+<i></i>
+<u></u>
+<s></s>
+<strong></strong>
+<em></em>
+<sup></sup>
+<sub></sub>
+<pre></pre>
+<code></code>
+
+<br>
+<hr>
+
+---

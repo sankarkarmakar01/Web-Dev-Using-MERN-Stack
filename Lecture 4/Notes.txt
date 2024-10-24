@@ -1,0 +1,16 @@
+- What is HTML ?
+=> HTML stands for Hyper Text Markup Language. It's define a structure of any web page. Any the part of "What?" is called HTML for a particular web page.(Skeleton)
+
+- What is CSS ?
+=> CSS stands for Casecading Style Sheet. It's for Styling or Apperencing of any web page.
+
+- What is JavaScript ?
+=> JavaScript is the brain of any web page.
+
+- Tag
+- Element 
+- html Tag => Root Element
+- Opening Tag(<>) and Closing Tag(</>)
+- head Tag => All meta data is in this tag 
+- meta Tag
+- Comments 
