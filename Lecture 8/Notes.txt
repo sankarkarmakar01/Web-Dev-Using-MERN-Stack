@@ -1,0 +1,28 @@
+- What is form in HTML ?
+- form tag
+- action attribute
+- label tag
+- for attribute
+- input tag and it's attributes
+- id attribute
+- name attribute
+- value attribute
+- placeholder attribute
+- form elements
+    -- input
+    -- lable
+    -- select->drop down
+    -- option
+    -- button
+    -- textarea
+    -- fildset
+    -- legend
+    -- etc..
+
+---
+
+<form action=""></form> - To create html form for user input 
+<input type="text"> - can be displayed many forms
+<label for=""></label> - create lable and also used in screen reader
+
+---
