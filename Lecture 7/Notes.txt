@@ -1,0 +1,14 @@
+- What is Table ?
+=> Arrangment of data in tabular form.
+- Rows
+- Column
+- cell
+- table tag
+- thead tag
+- tbody tag
+- tfoot tag
+- tr tag(table row)
+- td tag(table data)
+- th tag(table heading)
+- rowspan
+- colspan
