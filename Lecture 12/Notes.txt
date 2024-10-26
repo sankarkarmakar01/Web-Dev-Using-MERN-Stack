@@ -1,0 +1,9 @@
+- SEO 
+=> Search Engine Optimization
+- All about meta tag
+- title tag
+- fevicon
+- stylesheet
+- boilar plate code
+- about UTF-8
+=>Encoding technique
