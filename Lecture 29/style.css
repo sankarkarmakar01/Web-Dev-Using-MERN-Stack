@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+header {
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+
+header p {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(173, 175, 177);
+    width: 50%;
+}
+
+main {
+    width: 100%;
+    height: 100vh;
+    padding: 200px;
+    padding-top: 50px;
+    display: grid;
+    gap: 2rem;
+    grid-template-rows: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+}
+
+main .card {
+    width: 250px;
+    height: 380px;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid rgb(231, 229, 229);
+    gap: 1rem;
+    border-radius: 10px;
+    overflow: hidden;
+    border-top: none;
+    justify-self: center;
+    box-shadow: 0 0 10px #ccc;
+}
+
+main .card img {
+    width: 100%;
+}
+
+main .card .div1 {
+    width: 100%;
+    height: auto;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+main .card .div1 p {
+    color: rgb(114, 116, 117);
+}
+
+.div2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.div2 .first {
+    display: flex;
+}
+
+.div2 .first img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-position: center;
+    background-size: cover;
+}
+
+.div2 .first .nameDate {
+    margin-left: 7px;
+    margin-top: 7px;
+}
+
+.div2 .first .nameDate h4 {
+    font-size: 15px;
+}
+
+.div2 .first .nameDate p {
+    font-size: 15px;
+}
+
+button {
+    border: none;
+    border-radius: 5px;
+    border: 2px solid #ccc;
+    padding: 4px 5px;
+    color: rgb(114, 116, 117);
+    cursor: pointer;
+    background-color: #eee9e9fb;
+}
+
+.card:hover {
+    transition: all 1s;
+    transform: perspective(200px) scale(1.1);
+}
+
+button:hover {
+    color: rgb(86, 88, 88);
+    background-color: #ccc;
+    border: 2px solid #807e7e;
+}
